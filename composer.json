@@ -1,0 +1,16 @@
+{
+  "name": "jonahgeorge/chartkick.php",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jonah George",
+      "email": "jonah.george@me.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "JonahGeorge\\Chartkick\\": "src/"
+    }
+  }
+}
