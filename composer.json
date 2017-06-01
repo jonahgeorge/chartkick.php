@@ -1,5 +1,5 @@
 {
-  "name": "jonahgeorge/chartkick.php",
+  "name": "jonahgeorge/chartkick",
   "description": "Create beautiful JavaScript charts with one line of PHP",
   "type": "library",
   "license": "MIT",
